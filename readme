@@ -2,5 +2,6 @@
 void main()
 {
  printf("hello word!");
- return 40;
+ return 30;
+
 }
