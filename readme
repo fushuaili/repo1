@@ -2,5 +2,5 @@
 void main()
 {
  printf("hello word!");
- return 150;
+ return 2150;
 }
